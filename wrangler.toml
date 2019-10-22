@@ -1,0 +1,7 @@
+account_id = ""
+name = "windmill-proxy"
+type = "webpack"
+webpack_config = "./webpack.config.js"
+route = ""
+workers_dev = true
+zone_id = ""
